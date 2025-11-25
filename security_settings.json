@@ -1,0 +1,32 @@
+{
+    "wajib_login": true,
+    "min_password": 6,
+    "auto_logout": 30,
+    "two_factor": true,
+    "roles": {
+        "Administrator": {
+            "view": true,
+            "edit": true,
+            "print": true,
+            "admin": true
+        },
+        "Manager": {
+            "view": true,
+            "edit": true,
+            "print": true,
+            "admin": false
+        },
+        "Kasir": {
+            "view": true,
+            "edit": true,
+            "print": false,
+            "admin": false
+        },
+        "Auditor": {
+            "view": true,
+            "edit": false,
+            "print": false,
+            "admin": false
+        }
+    }
+}

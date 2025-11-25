@@ -1,0 +1,9 @@
+{
+    "periode_mulai": "2023-01-01",
+    "periode_akhir": "2023-12-31",
+    "mata_uang": "IDR - Rupiah",
+    "format_tanggal": "DD/MM/YYYY",
+    "format_angka": "1.000,00",
+    "theme": "Hijau",
+    "auto_save": true
+}

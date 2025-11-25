@@ -1,0 +1,11 @@
+{
+    "notif_transaksi_besar": true,
+    "notif_saldo_rendah": true,
+    "notif_laporan_bulanan": true,
+    "notif_maintenance": false,
+    "notif_backup": true,
+    "email_penerima": "manager@sientok.com",
+    "email_laporan_mingguan": true,
+    "email_transaksi_penting": true,
+    "email_ringkasan_harian": false
+}

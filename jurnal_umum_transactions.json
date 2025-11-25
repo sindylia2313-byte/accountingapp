@@ -1,0 +1,370 @@
+[
+    {
+        "tanggal": "22 January 2023",
+        "akun": "Kas",
+        "debit": 25000000,
+        "kredit": 0,
+        "keterangan": "Modal awal pak ponidi ",
+        "ref": ""
+    },
+    {
+        "tanggal": "22 January 2023",
+        "akun": "Modal",
+        "debit": 0,
+        "kredit": 25000000,
+        "keterangan": "Modal awal pak ponidi ",
+        "ref": ""
+    },
+    {
+        "tanggal": "23 January 2023",
+        "akun": "Perlengkapan",
+        "debit": 15000000,
+        "kredit": 0,
+        "keterangan": "Membeli perlengkapan ",
+        "ref": ""
+    },
+    {
+        "tanggal": "23 January 2023",
+        "akun": "Kas",
+        "debit": 0,
+        "kredit": 15000000,
+        "keterangan": "Membeli perlengkapan ",
+        "ref": ""
+    },
+    {
+        "tanggal": "24 January 2023",
+        "akun": "Peralatan",
+        "debit": 109500,
+        "kredit": 0,
+        "keterangan": "Membeli peralatan ",
+        "ref": ""
+    },
+    {
+        "tanggal": "24 January 2023",
+        "akun": "Kas",
+        "debit": 0,
+        "kredit": 109500,
+        "keterangan": "Membeli peralatan ",
+        "ref": ""
+    },
+    {
+        "tanggal": "25 January 2023",
+        "akun": "Pembelian",
+        "debit": 475000,
+        "kredit": 0,
+        "keterangan": "Membeli indukan entok",
+        "ref": ""
+    },
+    {
+        "tanggal": "25 January 2023",
+        "akun": "Kas",
+        "debit": 0,
+        "kredit": 475000,
+        "keterangan": "Membeli indukan entok",
+        "ref": ""
+    },
+    {
+        "tanggal": "27 January 2023",
+        "akun": "Beban Listrik",
+        "debit": 56000,
+        "kredit": 0,
+        "keterangan": "Pembayaran listrik",
+        "ref": ""
+    },
+    {
+        "tanggal": "27 January 2023",
+        "akun": "Kas",
+        "debit": 0,
+        "kredit": 56000,
+        "keterangan": "Pembayaran listrik",
+        "ref": ""
+    },
+    {
+        "tanggal": "26 January 2023",
+        "akun": "Beban pakan",
+        "debit": 150000,
+        "kredit": 0,
+        "keterangan": "Membeli pakan untuk entok ",
+        "ref": ""
+    },
+    {
+        "tanggal": "26 January 2023",
+        "akun": "Kas",
+        "debit": 0,
+        "kredit": 150000,
+        "keterangan": "Membeli pakan untuk entok ",
+        "ref": ""
+    },
+    {
+        "tanggal": "28 January 2023",
+        "akun": "Beban Vitamain",
+        "debit": 120000,
+        "kredit": 0,
+        "keterangan": "Membeli vitamin untuk entok",
+        "ref": ""
+    },
+    {
+        "tanggal": "28 January 2023",
+        "akun": "Kas",
+        "debit": 0,
+        "kredit": 120000,
+        "keterangan": "Membeli vitamin untuk entok",
+        "ref": ""
+    },
+    {
+        "tanggal": "08 March 2023",
+        "akun": "Beban pakan",
+        "debit": 240000,
+        "kredit": 0,
+        "keterangan": "Membeli pakan entok 16kg",
+        "ref": ""
+    },
+    {
+        "tanggal": "08 March 2023",
+        "akun": "Kas",
+        "debit": 0,
+        "kredit": 240000,
+        "keterangan": "Membeli pakan entok 16kg",
+        "ref": ""
+    },
+    {
+        "tanggal": "17 March 2023",
+        "akun": "Prive",
+        "debit": 100000,
+        "kredit": 0,
+        "keterangan": "Untuk digunakan pribadi",
+        "ref": ""
+    },
+    {
+        "tanggal": "17 March 2023",
+        "akun": "Kas",
+        "debit": 0,
+        "kredit": 100000,
+        "keterangan": "Untuk digunakan pribadi",
+        "ref": ""
+    },
+    {
+        "tanggal": "02 April 2023",
+        "akun": "Pembelian",
+        "debit": 240000,
+        "kredit": 0,
+        "keterangan": "Membeli Indukan entok jantan",
+        "ref": ""
+    },
+    {
+        "tanggal": "02 April 2023",
+        "akun": "Kas",
+        "debit": 0,
+        "kredit": 240000,
+        "keterangan": "Membeli Indukan entok jantan",
+        "ref": ""
+    },
+    {
+        "tanggal": "05 April 2023",
+        "akun": "Beban Vitamain",
+        "debit": 215000,
+        "kredit": 0,
+        "keterangan": "untuk membeli vitamin entok",
+        "ref": ""
+    },
+    {
+        "tanggal": "05 April 2023",
+        "akun": "Kas",
+        "debit": 0,
+        "kredit": 215000,
+        "keterangan": "untuk membeli vitamin entok",
+        "ref": ""
+    },
+    {
+        "tanggal": "16 April 2023",
+        "akun": "Beban perawatan Kandang",
+        "debit": 150000,
+        "kredit": 0,
+        "keterangan": "Biaya perawatan kandang ",
+        "ref": ""
+    },
+    {
+        "tanggal": "16 April 2023",
+        "akun": "Kas",
+        "debit": 0,
+        "kredit": 150000,
+        "keterangan": "Biaya perawatan kandang ",
+        "ref": ""
+    },
+    {
+        "tanggal": "07 March 2023",
+        "akun": "Beban Air",
+        "debit": 110000,
+        "kredit": 0,
+        "keterangan": "membayar air",
+        "ref": ""
+    },
+    {
+        "tanggal": "07 March 2023",
+        "akun": "Kas",
+        "debit": 0,
+        "kredit": 110000,
+        "keterangan": "membayar air",
+        "ref": ""
+    },
+    {
+        "tanggal": "07 March 2023",
+        "akun": "Beban Listrik",
+        "debit": 50000,
+        "kredit": 0,
+        "keterangan": "membayar listrik",
+        "ref": ""
+    },
+    {
+        "tanggal": "07 March 2023",
+        "akun": "Kas",
+        "debit": 0,
+        "kredit": 50000,
+        "keterangan": "membayar listrik",
+        "ref": ""
+    },
+    {
+        "tanggal": "29 January 2023",
+        "akun": "Perlengkapan",
+        "debit": 177000,
+        "kredit": 0,
+        "keterangan": "Membeli paranet 3 meter",
+        "ref": ""
+    },
+    {
+        "tanggal": "29 January 2023",
+        "akun": "Kas",
+        "debit": 0,
+        "kredit": 177000,
+        "keterangan": "Membeli paranet 3 meter",
+        "ref": ""
+    },
+    {
+        "tanggal": "29 January 2023",
+        "akun": "Beban Air",
+        "debit": 100000,
+        "kredit": 0,
+        "keterangan": "membayar air",
+        "ref": ""
+    },
+    {
+        "tanggal": "29 January 2023",
+        "akun": "Kas",
+        "debit": 0,
+        "kredit": 100000,
+        "keterangan": "membayar air",
+        "ref": ""
+    },
+    {
+        "tanggal": "10 April 2023",
+        "akun": "Kas",
+        "debit": 900000,
+        "kredit": 0,
+        "keterangan": "Terjadi penjualan 5 indukan dan 20 bibit entok berumur 3 minggu ",
+        "ref": ""
+    },
+    {
+        "tanggal": "10 April 2023",
+        "akun": "Penjualan",
+        "debit": 0,
+        "kredit": 900000,
+        "keterangan": "Terjadi penjualan 5 indukan dan 20 bibit entok berumur 3 minggu ",
+        "ref": ""
+    },
+    {
+        "tanggal": "06 April 2023",
+        "akun": "Kas",
+        "debit": 390000,
+        "kredit": 0,
+        "keterangan": "Terjual 10 bibit entok berumur 1 minggu dan 2 indukan ",
+        "ref": ""
+    },
+    {
+        "tanggal": "06 April 2023",
+        "akun": "Penjualan",
+        "debit": 0,
+        "kredit": 390000,
+        "keterangan": "Terjual 10 bibit entok berumur 1 minggu dan 2 indukan ",
+        "ref": ""
+    },
+    {
+        "tanggal": "21 March 2023",
+        "akun": "Kas",
+        "debit": 215000,
+        "kredit": 0,
+        "keterangan": "Terjual 7 bibit entok dan 1 indukan ",
+        "ref": ""
+    },
+    {
+        "tanggal": "21 March 2023",
+        "akun": "Penjualan",
+        "debit": 0,
+        "kredit": 215000,
+        "keterangan": "Terjual 7 bibit entok dan 1 indukan ",
+        "ref": ""
+    },
+    {
+        "tanggal": "21 March 2023",
+        "akun": "Beban Pengiriman",
+        "debit": 10000,
+        "kredit": 0,
+        "keterangan": "Membayar jasa pengiriman ",
+        "ref": ""
+    },
+    {
+        "tanggal": "21 March 2023",
+        "akun": "Kas",
+        "debit": 0,
+        "kredit": 10000,
+        "keterangan": "Membayar jasa pengiriman ",
+        "ref": ""
+    },
+    {
+        "tanggal": "12 March 2023",
+        "akun": "Kas",
+        "debit": 150000,
+        "kredit": 0,
+        "keterangan": "Penjualan 2 indukan entok",
+        "ref": ""
+    },
+    {
+        "tanggal": "12 March 2023",
+        "akun": "Penjualan",
+        "debit": 0,
+        "kredit": 150000,
+        "keterangan": "Penjualan 2 indukan entok",
+        "ref": ""
+    },
+    {
+        "tanggal": "12 March 2023",
+        "akun": "Beban Perbaikan",
+        "debit": 600000,
+        "kredit": 0,
+        "keterangan": "Perbaikan kandang ",
+        "ref": ""
+    },
+    {
+        "tanggal": "12 March 2023",
+        "akun": "Kas",
+        "debit": 0,
+        "kredit": 600000,
+        "keterangan": "Perbaikan kandang ",
+        "ref": ""
+    },
+    {
+        "tanggal": "05 March 2023",
+        "akun": "Kas",
+        "debit": 375000,
+        "kredit": 0,
+        "keterangan": "Terjual 15 bibit entok berumur 3 minggu ",
+        "ref": ""
+    },
+    {
+        "tanggal": "05 March 2023",
+        "akun": "Penjualan",
+        "debit": 0,
+        "kredit": 375000,
+        "keterangan": "Terjual 15 bibit entok berumur 3 minggu ",
+        "ref": ""
+    }
+]

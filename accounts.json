@@ -1,0 +1,126 @@
+{
+    "Kas": {
+        "type": "Aset",
+        "balance": 0
+    },
+    "Bank": {
+        "type": "Aset",
+        "balance": 0
+    },
+    "Piutang Usaha": {
+        "type": "Aset",
+        "balance": 0
+    },
+    "Persediaan": {
+        "type": "Aset",
+        "balance": 0
+    },
+    "Perlengkapan": {
+        "type": "Aset",
+        "balance": 0
+    },
+    "Peralatan": {
+        "type": "Aset",
+        "balance": 0
+    },
+    "Gedung": {
+        "type": "Aset",
+        "balance": 0
+    },
+    "Tanah": {
+        "type": "Aset",
+        "balance": 0
+    },
+    "Kendaraan": {
+        "type": "Aset",
+        "balance": 0
+    },
+    "Akumulasi Penyusutan Gedung": {
+        "type": "Aset",
+        "balance": 0
+    },
+    "Akumulasi Penyusutan Peralatan": {
+        "type": "Aset",
+        "balance": 0
+    },
+    "Utang Usaha": {
+        "type": "Kewajiban",
+        "balance": 0
+    },
+    "Utang Bank": {
+        "type": "Kewajiban",
+        "balance": 0
+    },
+    "Modal Pemilik": {
+        "type": "Modal",
+        "balance": 0
+    },
+    "Prive": {
+        "type": "Modal",
+        "balance": 0
+    },
+    "Pembelian": {
+        "type": "Beban",
+        "balance": 0
+    },
+    "Penjualan": {
+        "type": "Pendapatan",
+        "balance": 0
+    },
+    "Pendapatan Usaha": {
+        "type": "Pendapatan",
+        "balance": 0
+    },
+    "Pendapatan Jasa": {
+        "type": "Pendapatan",
+        "balance": 0
+    },
+    "Pendapatan Penjualan": {
+        "type": "Pendapatan",
+        "balance": 0
+    },
+    "Pendapatan Lainnya": {
+        "type": "Pendapatan",
+        "balance": 0
+    },
+    "Beban Gaji": {
+        "type": "Beban",
+        "balance": 0
+    },
+    "Beban Sewa": {
+        "type": "Beban",
+        "balance": 0
+    },
+    "Beban Listrik": {
+        "type": "Beban",
+        "balance": 0
+    },
+    "Beban Air": {
+        "type": "Beban",
+        "balance": 0
+    },
+    "Beban Telepon": {
+        "type": "Beban",
+        "balance": 0
+    },
+    "Beban Transportasi": {
+        "type": "Beban",
+        "balance": 0
+    },
+    "Beban Perlengkapan": {
+        "type": "Beban",
+        "balance": 0
+    },
+    "Beban Penyusutan Gedung": {
+        "type": "Beban",
+        "balance": 0
+    },
+    "Beban Penyusutan Peralatan": {
+        "type": "Beban",
+        "balance": 0
+    },
+    "Beban Lainnya": {
+        "type": "Beban",
+        "balance": 0
+    }
+}

@@ -1,0 +1,156 @@
+[
+    {
+        "tanggal": "2023-01-22",
+        "keterangan": "modal awal ",
+        "akun": "Kas",
+        "debit": 25000000.0,
+        "kredit": 0
+    },
+    {
+        "tanggal": "2023-01-22",
+        "keterangan": "modal awal ",
+        "akun": "Modal Pemilik",
+        "debit": 0,
+        "kredit": 25000000.0
+    },
+    {
+        "tanggal": "2023-01-23",
+        "keterangan": "membeli perlengkapan ",
+        "akun": "Perlengkapan",
+        "debit": 15000000.0,
+        "kredit": 0
+    },
+    {
+        "tanggal": "2023-01-23",
+        "keterangan": "membeli perlengkapan ",
+        "akun": "Kas",
+        "debit": 0,
+        "kredit": 15000000.0
+    },
+    {
+        "tanggal": "2023-01-23",
+        "keterangan": "membeli perlengkapan ",
+        "akun": "Perlengkapan",
+        "debit": 15000000.0,
+        "kredit": 0
+    },
+    {
+        "tanggal": "2023-01-23",
+        "keterangan": "membeli perlengkapan ",
+        "akun": "Kas",
+        "debit": 0,
+        "kredit": 15000000.0
+    },
+    {
+        "tanggal": "2023-01-24",
+        "keterangan": "membeli peralatan ",
+        "akun": "Peralatan",
+        "debit": 109500.0,
+        "kredit": 0
+    },
+    {
+        "tanggal": "2023-01-24",
+        "keterangan": "membeli peralatan ",
+        "akun": "Kas",
+        "debit": 0,
+        "kredit": 109500.0
+    },
+    {
+        "tanggal": "2023-01-12",
+        "keterangan": "modal awal pak ponidi ",
+        "akun": "Kas",
+        "debit": 25000000.0,
+        "kredit": 0
+    },
+    {
+        "tanggal": "2023-01-12",
+        "keterangan": "modal awal pak ponidi ",
+        "akun": "Modal Pemilik",
+        "debit": 0,
+        "kredit": 25000000.0
+    },
+    {
+        "tanggal": "2023-01-23",
+        "keterangan": "membeli perlengkapan ",
+        "akun": "Perlengkapan",
+        "debit": 15000000.0,
+        "kredit": 0
+    },
+    {
+        "tanggal": "2023-01-23",
+        "keterangan": "membeli perlengkapan ",
+        "akun": "Kas",
+        "debit": 0,
+        "kredit": 15000000.0
+    },
+    {
+        "tanggal": "2023-11-22",
+        "keterangan": "Modal awal pak ponidi ",
+        "akun": "Kas",
+        "debit": 25000000.0,
+        "kredit": 0
+    },
+    {
+        "tanggal": "2023-11-22",
+        "keterangan": "Modal awal pak ponidi ",
+        "akun": "Modal Pemilik",
+        "debit": 0,
+        "kredit": 25000000.0
+    },
+    {
+        "tanggal": "2023-11-22",
+        "keterangan": "Modal awal pak ponidi ",
+        "akun": "Kas",
+        "debit": 25000000.0,
+        "kredit": 0
+    },
+    {
+        "tanggal": "2023-11-22",
+        "keterangan": "Modal awal pak ponidi ",
+        "akun": "Modal Pemilik",
+        "debit": 0,
+        "kredit": 25000000.0
+    },
+    {
+        "tanggal": "2023-11-22",
+        "keterangan": "Modal awal pak ponidi ",
+        "akun": "Kas",
+        "debit": 25000000.0,
+        "kredit": 0
+    },
+    {
+        "tanggal": "2023-11-22",
+        "keterangan": "Modal awal pak ponidi ",
+        "akun": "Modal Pemilik",
+        "debit": 0,
+        "kredit": 25000000.0
+    },
+    {
+        "tanggal": "2025-11-21",
+        "keterangan": "kjh",
+        "akun": "Kas",
+        "debit": 1000.0,
+        "kredit": 0
+    },
+    {
+        "tanggal": "2025-11-21",
+        "keterangan": "kjh",
+        "akun": "Peralatan",
+        "debit": 0,
+        "kredit": 1000.0
+    },
+    {
+        "tanggal": "2025-11-21",
+        "keterangan": "kjh",
+        "akun": "Kas",
+        "debit": 1000.0,
+        "kredit": 0
+    },
+    {
+        "tanggal": "2025-11-21",
+        "keterangan": "kjh",
+        "akun": "Peralatan",
+        "debit": 0,
+        "kredit": 1000.0
+    }
+]

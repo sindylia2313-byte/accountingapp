@@ -1,0 +1,20 @@
+[
+    {
+        "tanggal": "31 December",
+        "jenis": "Penyusutan",
+        "akun_debit": "Beban Penyusutan Peralatan",
+        "akun_kredit": "Akumulasi Penyusutan Peralatan",
+        "debit": 19710.0,
+        "kredit": 19710.0,
+        "perhitungan": "Harga: Rp109,500 | Residu: 10.0% | Umur: 5 tahun"
+    },
+    {
+        "tanggal": "31 December",
+        "jenis": "Pemakaian Perlengkapan",
+        "akun_debit": "Beban Perlengkapan",
+        "akun_kredit": "Perlengkapan",
+        "debit": 15177000,
+        "kredit": 15177000,
+        "perhitungan": "0 + 15,177,000 - 0 = Rp15,177,000"
+    }
+]
